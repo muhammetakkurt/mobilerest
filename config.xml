@@ -4,11 +4,11 @@
     xmlns:android = "http://schemas.android.com/apk/res/android"
     id        = "kmrs.merchant.app"
     version   = "1.0.3">
-    <name>Karenderia Order Taking App</name>
+    <name>Acligini Gider Order Taking App</name>
     <description>
-        Karenderia Order Taking App
+        Acligini Gider Order Taking App
     </description>
-    <author email="basti@codemywebapps.com" href="http://cordova.io">
+    <author email="info@acliginigider.com" href="http://cordova.io">
         codemywebapps.com
     </author>
     <icon src="icon.png" />           

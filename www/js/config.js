@@ -1,7 +1,7 @@
 
-var krms_config ={			
-	'ApiUrl' : "YOUR_API_URL",	
-	'DialogDefaultTitle' : "YOUR_OWN_DIALOG_TITLE",
+var krms_config ={	
+	'ApiUrl' : "http://acliginigider.com/mobileapp/api",
+	'DialogDefaultTitle' : "Açlığını Gider",
 	'pushNotificationSenderid' : "YOUR_ANDROID_PUSH_PROJECT_ID",
-	'APIHasKey' : "YOUR API HASH KEY (OPTIONAL)"
+	'APIHasKey' : "91a82634be7e9a661503f1da5fb159d0"
 };
